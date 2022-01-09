@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Initent app</string>
+    <string name="STK">stk</string>
+    <string name="EMAIL">e-mail</string>
+    <string name="SMS">sms</string>
+    <string name="SHARE">share</string>
+    <string name="CALL">call</string>
+    <string name="CAMERA">camera</string>
+</resources>
